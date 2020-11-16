@@ -43,6 +43,10 @@ I couldn't run this code perfectly. My main motif was to run the wordcount.py in
 ## Visualization
 ![Graph](https://raw.githubusercontent.com/spsaroj/bigdata-spark-runner/main/chart.PNG)
 
+## Spark Word Count
+
+[Github Repo Here](https://github.com/spsaroj/spark-wordcount)
+
 ## Contributions
 
 All the contributions are more than welcome. If anyone knows how to run the wordcount file in spark don't hesitate to contribute.
