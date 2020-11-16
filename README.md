@@ -43,6 +43,8 @@ I couldn't run this code perfectly. My main motif was to run the wordcount.py in
 ## Visualization
 ![Graph](https://raw.githubusercontent.com/spsaroj/bigdata-spark-runner/main/chart.PNG)
 
+It is pretty amazing to see how Michael, Don's son in the movie is repeated the most than Don.
+
 ## Spark Word Count
 
 [Github Repo Here](https://github.com/spsaroj/spark-wordcount)
