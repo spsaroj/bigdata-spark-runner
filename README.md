@@ -52,3 +52,8 @@ It is pretty amazing to see how Michael, Don's son in the movie is repeated the 
 ## Contributions
 
 All the contributions are more than welcome. If anyone knows how to run the wordcount file in spark don't hesitate to contribute.
+
+## Resources
+[https://beam.apache.org/get-started/wordcount-example/](https://beam.apache.org/get-started/wordcount-example/)
+[https://github.com/apache/beam/blob/master/sdks/python/apache_beam/examples/wordcount.py](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/examples/wordcount.py)
+
