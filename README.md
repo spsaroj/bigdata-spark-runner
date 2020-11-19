@@ -1,5 +1,6 @@
 # Big Data Apache Beam Spark Runner
 
+The main objective of this project is to make a Apache Beam pipeline and run it in Spark.
 
 ## Commands:
 
@@ -45,9 +46,6 @@ I couldn't run this code perfectly. My main motif was to run the wordcount.py in
 
 It is pretty amazing to see how Michael, Don's son in the movie is repeated the most than Don.
 
-## Spark Word Count
-
-[Github Repo Here](https://github.com/spsaroj/spark-wordcount)
 
 ## Contributions
 
